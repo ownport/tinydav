@@ -1,5 +1,7 @@
 # TinyDAV: A WebDAV client library
 
+[![Build Status](https://travis-ci.org/ownport/tinydav.svg)](https://travis-ci.org/ownport/tinydav)
+
 A simple to use library for contacting WebDAV servers. (Fork from https://gitlab.helduel.de/open-source/tinydav)
 
 
@@ -14,7 +16,7 @@ A simple to use library for contacting WebDAV servers. (Fork from https://gitlab
 
 Get from PyPI:
 ```
-# easy_install tinydav
+$ easy_install tinydav
 ```
 
 Get package from https://gitlab.helduel.de/open-source/tinydav:
