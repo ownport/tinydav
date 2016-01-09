@@ -25,6 +25,19 @@ $ python setup.py build
 $ python setup.py install
 ```
 
+## Documentation
+
+- [Tutorial and Reference](https://gitlab.helduel.de/open-source/tinydav/wikis/home)
+
+
+## For developers
+
+create dev env for testing tinydav
+
+```
+$ make create-dev-env
+```
+
 ## Run unittests
 
 To run the unittests checkout sources and run:
@@ -34,11 +47,6 @@ python test/testloader.py
 ```
 
 Unittests will not run with Python 3.
-
-
-### Documentation
-
-- [Tutorial and Reference](https://gitlab.helduel.de/open-source/tinydav/wikis/home)
 
 
 # License
